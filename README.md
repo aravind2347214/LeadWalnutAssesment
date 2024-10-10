@@ -2,6 +2,8 @@
 
 A responsive web application built with Next.js that allows users to browse, search, and view detailed information about Pokémon.
 
+I have attached the ZIP file along with the Repository . there seems to be an issue with the git tree management from my side
+
 ## Features
 
 - Browse Pokémon with pagination
